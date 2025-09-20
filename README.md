@@ -32,17 +32,7 @@ An AI-powered web application that predicts a person’s age from an uploaded im
 * Backend: Django
 * ML Models: Keras, ONNX
 * Languages: Python, JavaScript
-
----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-AgePredictionAI/
-│── frontend/         # React frontend
-│── backend/          # Django backend & APIs
-│   ├── models/       # Pre-trained ML models (Keras/ONNX)
-│   ├── api/          # Django REST API for predictions
-│── README.md         # Project documentation
-
-
+* 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 🎯 Future Enhancements
@@ -55,17 +45,17 @@ AgePredictionAI/
 
 ->  Setup Frontend (React)
 
-cd frontend
-npm install
-npm start
+* cd frontend
+* npm install
+* npm start
 
 2. Setup Backend (Django)
-cd backend
-.\venv\Scripts\Activate.ps1
-python manage.py runserver
+* cd backend
+* .\venv\Scripts\Activate.ps1
+* python manage.py runserver
 
 
-
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
