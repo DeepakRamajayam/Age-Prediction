@@ -2,6 +2,8 @@
 
 An AI-powered web application that predicts a person’s age from an uploaded image using deep learning models.
 
+https://github.com/user-attachments/assets/82045d9d-6a3e-4f8b-96f3-f5c1014b33b3
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # Project Workflow\
