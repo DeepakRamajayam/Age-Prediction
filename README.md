@@ -34,7 +34,7 @@ https://github.com/user-attachments/assets/82045d9d-6a3e-4f8b-96f3-f5c1014b33b3
 * Backend: Django
 * ML Models: Keras, ONNX
 * Languages: Python, JavaScript
-* 
+  
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 🎯 Future Enhancements
